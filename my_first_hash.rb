@@ -7,7 +7,7 @@ def my_hash
   my_hash["my_name"]
 end
 
-
+print my_hash
 
 
 def shipping_manifest
