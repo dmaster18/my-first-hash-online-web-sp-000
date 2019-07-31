@@ -1,10 +1,8 @@
-def my_hash 
-  me = {
+my_hash  = {
   "my_name" => "David",
   "current_profession" => "CPA", 
   "future_profession" => "Software Engineer!"
   }
-end
 
 print my_hash["my_name"]
 
