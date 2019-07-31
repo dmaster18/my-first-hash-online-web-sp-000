@@ -4,8 +4,9 @@ def my_hash
   "current_profession" => "CPA", 
   "future_profession" => "Software Engineer!"
   }
-  print my_hash["my_name"]
+  my_hash["my_name"]
 end
+
 
 
 
