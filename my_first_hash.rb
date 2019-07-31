@@ -35,6 +35,8 @@ def retrieval
   the_manifest["oil paintings"]
 end
 
+puts retrieval
+
 def adding
   shipping_manifest = {
                   "whale bone corsets" => 5, 
