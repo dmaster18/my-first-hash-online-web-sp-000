@@ -22,6 +22,8 @@ def shipping_manifest
   the_manifest["oil paintings"]
 end
 
+print shipping_manifest
+
 def retrieval
   shipping_manifest = {
                   "whale bone corsets" => 5, 
