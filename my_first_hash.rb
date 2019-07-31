@@ -32,7 +32,7 @@ def retrieval
                  }
 
   # Look up the value of the "oil paintings" key in the shipping_manifest hash below
-  the_manifest["oil paintings"]
+  retrieval["oil paintings"]
 end
 
 puts retrieval
