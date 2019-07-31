@@ -1,4 +1,5 @@
 def my_hash 
+  me = {
   "my_name" => "David",
   "current_profession" => "CPA", 
   "future_profession" => "Software Engineer!"
