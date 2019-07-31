@@ -22,7 +22,7 @@ def shipping_manifest
   the_manifest["oil paintings"]
 end
 
-print shipping_manifest
+puts shipping_manifest
 
 def retrieval
   shipping_manifest = {
