@@ -1,9 +1,7 @@
-def my_hash {
+def my_hash 
   "my_name" => "David",
   "current_profession" => "CPA", 
   "future_profession" => "Software Engineer!"
-
-  
 end
 
 
