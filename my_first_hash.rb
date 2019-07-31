@@ -4,9 +4,10 @@ my_hash  = {
   "current_profession" => "CPA", 
   "future_profession" => "Software Engineer!"
   }
+  print my_hash["my_name"]
 end
 
-print my_hash["my_name"]
+
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
